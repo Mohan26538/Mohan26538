@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MOHANKUMAR R
-- 👀 I’m interested in Software engineer
+- 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohan26538@gmail.com
